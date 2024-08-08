@@ -1,0 +1,1240 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.eot
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.eot?
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.svg
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.ttf
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.woff
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.woff2
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.eot
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.eot?
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.svg
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.ttf
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.woff
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.woff2
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.eot
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.eot?
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.svg
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.ttf
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.woff
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.woff2
+File Name: G:\HTML CCSS\saimanhealthcare.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400,700,900
+File Name: G:\HTML CCSS\saimanhealthcare.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900
+File Name: G:\HTML CCSS\saimanhealthcare.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: G:\HTML CCSS\saimanhealthcare.com\s\lato\v24\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: G:\HTML CCSS\saimanhealthcare.com\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: G:\HTML CCSS\saimanhealthcare.com\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: G:\HTML CCSS\saimanhealthcare.com\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: G:\HTML CCSS\saimanhealthcare.com\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: G:\HTML CCSS\saimanhealthcare.com\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: G:\HTML CCSS\saimanhealthcare.com\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: G:\HTML CCSS\saimanhealthcare.com\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://s3.tracemyip.org/vLg/1217/4684NR-IPIB/72524/5/12/ans/
+File Name: G:\HTML CCSS\saimanhealthcare.com\vLg\1217\4684NR-IPIB\72524\5\12\ans\index.htm
+Content Type: image/gif
+
+Uri: https://s3.tracemyip.org/vLg/lgUrl.php?pidnVar2=72524&prtVar2=5&stlVar2=1217&rgtype=4684NR-IPIB&scvVar2=12
+File Name: G:\HTML CCSS\saimanhealthcare.com\vLg\lgUrl.php
+Content Type: text/javascript
+
+Uri: https://saimanhealthcare.com/
+File Name: G:\HTML CCSS\saimanhealthcare.com\index.htm
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/404
+File Name: G:\HTML CCSS\saimanhealthcare.com\404.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/about
+File Name: G:\HTML CCSS\saimanhealthcare.com\about.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/blog
+File Name: G:\HTML CCSS\saimanhealthcare.com\blog.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/blog-detail/a-refresher-on-childhood-asthma-what-families-should-know-and-do
+File Name: G:\HTML CCSS\saimanhealthcare.com\blog-detail\a-refresher-on-childhood-asthma-what-families-should-know-and-do.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/blog-detail/an-emerging-treatment-option-for-men-on-active-surveillance
+File Name: G:\HTML CCSS\saimanhealthcare.com\blog-detail\an-emerging-treatment-option-for-men-on-active-surveillance.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/blog-detail/first-aid-tips-for-road-accident-victims
+File Name: G:\HTML CCSS\saimanhealthcare.com\blog-detail\first-aid-tips-for-road-accident-victims.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/blog-detail/how-weather-impacts-your-health
+File Name: G:\HTML CCSS\saimanhealthcare.com\blog-detail\how-weather-impacts-your-health.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/blog-detail/your-health-is-in-your-hands
+File Name: G:\HTML CCSS\saimanhealthcare.com\blog-detail\your-health-is-in-your-hands.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/brands/critical-care-clinic
+File Name: G:\HTML CCSS\saimanhealthcare.com\brands\critical-care-clinic.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/brands/dgd-diagnostics
+File Name: G:\HTML CCSS\saimanhealthcare.com\brands\dgd-diagnostics.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/brands/dr-garg’s-critical-care-academy-
+File Name: G:\HTML CCSS\saimanhealthcare.com\brands\dr-garg’s-critical-care-academy-.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/brands/dr-garg-s-critical-care-academy-
+File Name: G:\HTML CCSS\saimanhealthcare.com\brands\dr-garg-s-critical-care-academy-.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/brands/dr-garg-s-icu-care-home
+File Name: G:\HTML CCSS\saimanhealthcare.com\brands\dr-garg-s-icu-care-home.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/brands/dr-gargs-ambulance
+File Name: G:\HTML CCSS\saimanhealthcare.com\brands\dr-gargs-ambulance.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/brands/dr-gargs-esmart-icu
+File Name: G:\HTML CCSS\saimanhealthcare.com\brands\dr-gargs-esmart-icu.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/brands/icu-care-at-home
+File Name: G:\HTML CCSS\saimanhealthcare.com\brands\icu-care-at-home.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/career
+File Name: G:\HTML CCSS\saimanhealthcare.com\career.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/contact
+File Name: G:\HTML CCSS\saimanhealthcare.com\contact.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/css/animate.css
+File Name: G:\HTML CCSS\saimanhealthcare.com\css (1)\animate.css
+Content Type: text/css
+
+Uri: https://saimanhealthcare.com/css/bootstrap.min.css
+File Name: G:\HTML CCSS\saimanhealthcare.com\css (1)\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://saimanhealthcare.com/css/dropdown-effects/fade-down.css
+File Name: G:\HTML CCSS\saimanhealthcare.com\css (1)\dropdown-effects\fade-down.css
+Content Type: text/css
+
+Uri: https://saimanhealthcare.com/css/flaticon.css
+File Name: G:\HTML CCSS\saimanhealthcare.com\css (1)\flaticon.css
+Content Type: text/css
+
+Uri: https://saimanhealthcare.com/css/jquery.datetimepicker.min.css
+File Name: G:\HTML CCSS\saimanhealthcare.com\css (1)\jquery.datetimepicker.min.css
+Content Type: text/css
+
+Uri: https://saimanhealthcare.com/css/magnific-popup.css
+File Name: G:\HTML CCSS\saimanhealthcare.com\css (1)\magnific-popup.css
+Content Type: text/css
+
+Uri: https://saimanhealthcare.com/css/menu.css
+File Name: G:\HTML CCSS\saimanhealthcare.com\css (1)\menu.css
+Content Type: text/css
+
+Uri: https://saimanhealthcare.com/css/owl.carousel.min.css
+File Name: G:\HTML CCSS\saimanhealthcare.com\css (1)\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://saimanhealthcare.com/css/owl.theme.default.min.css
+File Name: G:\HTML CCSS\saimanhealthcare.com\css (1)\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://saimanhealthcare.com/css/owl.video.play.html
+File Name: G:\HTML CCSS\saimanhealthcare.com\css (1)\owl.video.play.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/css/responsive.css
+File Name: G:\HTML CCSS\saimanhealthcare.com\css (1)\responsive.css
+Content Type: text/css
+
+Uri: https://saimanhealthcare.com/css/style.css
+File Name: G:\HTML CCSS\saimanhealthcare.com\css (1)\style.css
+Content Type: text/css
+
+Uri: https://saimanhealthcare.com/fonts/Flaticon.eot
+File Name: G:\HTML CCSS\saimanhealthcare.com\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://saimanhealthcare.com/fonts/Flaticon.svg
+File Name: G:\HTML CCSS\saimanhealthcare.com\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://saimanhealthcare.com/fonts/Flaticon.ttf
+File Name: G:\HTML CCSS\saimanhealthcare.com\fonts\Flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://saimanhealthcare.com/fonts/Flaticon.woff
+File Name: G:\HTML CCSS\saimanhealthcare.com\fonts\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://saimanhealthcare.com/fonts/Flaticond41d.eot?
+File Name: G:\HTML CCSS\saimanhealthcare.com\fonts\Flaticond41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://saimanhealthcare.com/images/back-to-top.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\back-to-top.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/images/banner-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/images/banner-2.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/images/banner-4.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\banner-4.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/images/banner-6.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\banner-6.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/images/banner-8.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\banner-8.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/images/bg01.html
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\bg01.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/images/breadcrumb.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/images/contacts-1.html
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\contacts-1.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/images/doctor-profile.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\doctor-profile.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/images/footer-bg.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\footer-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/images/ft-logo.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\ft-logo.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/images/hero-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\hero-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/images/hero-12-img.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\hero-12-img.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/images/hero-4.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\hero-4.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/images/hero-5.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\hero-5.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/images/info-5.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\info-5.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/images/info-7.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\info-7.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/images/info-8.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\info-8.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/images/info-9.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\info-9.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/images/loader.gif
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\loader.gif
+Content Type: image/gif
+
+Uri: https://saimanhealthcare.com/images/next.svg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\next.svg
+Content Type: image/svg+xml
+
+Uri: https://saimanhealthcare.com/images/prev.svg
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\prev.svg
+Content Type: image/svg+xml
+
+Uri: https://saimanhealthcare.com/images/quote.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\images\quote.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/js/appointment-form.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\appointment-form.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/bootstrap.min.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/comment-form.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\comment-form.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/contact-form.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\contact-form.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/custom.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\custom.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/hero-form.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\hero-form.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/imagesloaded.pkgd.min.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\imagesloaded.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/isotope.pkgd.min.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\isotope.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/jquery-3.3.1.min.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\jquery-3.3.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/jquery.ajaxchimp.min.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\jquery.ajaxchimp.min.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/jquery.appear.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\jquery.appear.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/jquery.datetimepicker.full.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\jquery.datetimepicker.full.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/jquery.easing.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\jquery.easing.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/jquery.magnific-popup.min.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\jquery.magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/jquery.scrollto.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\jquery.scrollto.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/jquery.stellar.min.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\jquery.stellar.min.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/jquery.validate.min.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\jquery.validate.min.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/materialize.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\materialize.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/menu.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\menu.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/modernizr.custom.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\modernizr.custom.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/owl.carousel.min.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/sticky.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\sticky.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/js/wow.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\js\wow.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/press-release
+File Name: G:\HTML CCSS\saimanhealthcare.com\press-release.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/privacy
+File Name: G:\HTML CCSS\saimanhealthcare.com\privacy.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/services/24-7-diagnostics-and-imaging
+File Name: G:\HTML CCSS\saimanhealthcare.com\services\24-7-diagnostics-and-imaging.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/services/24x7-hi-tech-road-air-ambulance
+File Name: G:\HTML CCSS\saimanhealthcare.com\services\24x7-hi-tech-road-air-ambulance.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/services/24x7-remote-health-monitoring
+File Name: G:\HTML CCSS\saimanhealthcare.com\services\24x7-remote-health-monitoring.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/services/advance-icu-care
+File Name: G:\HTML CCSS\saimanhealthcare.com\services\advance-icu-care.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/services/advanced-critical-care-physiotherapy
+File Name: G:\HTML CCSS\saimanhealthcare.com\services\advanced-critical-care-physiotherapy.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/services/affordable-equipment-on-sale-rent
+File Name: G:\HTML CCSS\saimanhealthcare.com\services\affordable-equipment-on-sale-rent.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/services/chemotherapy-immunotherapy-and-targeted-therapy
+File Name: G:\HTML CCSS\saimanhealthcare.com\services\chemotherapy-immunotherapy-and-targeted-therapy.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/services/critical-care-healthcare-attendant
+File Name: G:\HTML CCSS\saimanhealthcare.com\services\critical-care-healthcare-attendant.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/services/critical-care-nurses
+File Name: G:\HTML CCSS\saimanhealthcare.com\services\critical-care-nurses.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/services/hemodialysis-peritoneal-dialysis
+File Name: G:\HTML CCSS\saimanhealthcare.com\services\hemodialysis-peritoneal-dialysis.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/services/specialized-doctor-s-visit
+File Name: G:\HTML CCSS\saimanhealthcare.com\services\specialized-doctor-s-visit.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/services/virtual-physical-consultation
+File Name: G:\HTML CCSS\saimanhealthcare.com\services\virtual-physical-consultation.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/termsandcondition
+File Name: G:\HTML CCSS\saimanhealthcare.com\termsandcondition.html
+Content Type: text/html
+
+Uri: https://saimanhealthcare.com/toaster/toaster.css
+File Name: G:\HTML CCSS\saimanhealthcare.com\toaster\toaster.css
+Content Type: text/css
+
+Uri: https://saimanhealthcare.com/toaster/toaster.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\toaster\toaster.js
+Content Type: application/x-javascript
+
+Uri: https://saimanhealthcare.com/uploads/404.gif
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\404.gif
+Content Type: image/gif
+
+Uri: https://saimanhealthcare.com/uploads/about/1645175896_image-05.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\about\1645175896_image-05.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/about/1645603018_breadcrumb.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\about\1645603018_breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/about/1645603044_breadcrumb.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\about\1645603044_breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/about/1651234356_WhatsApp Image 2022-04-29 at 5.30.16 PM.jpeg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\about\1651234356_WhatsApp Image 2022-04-29 at 5.30.16 PM.jpeg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/about/1651481155_WhatsApp Image 2022-04-29 at 5.30.16 PM.jpeg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\about\1651481155_WhatsApp Image 2022-04-29 at 5.30.16 PM.jpeg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/banner/3421_slide-3.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\banner\3421_slide-3.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/banner/9671_slide-2.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\banner\9671_slide-2.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/blogs/1659425960_blog-pic.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\blogs\1659425960_blog-pic.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/blogs/1659425981_latest-post-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\blogs\1659425981_latest-post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/blogs/1659426004_latest-post-2.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\blogs\1659426004_latest-post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/blogs/1659426024_latest-post-3.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\blogs\1659426024_latest-post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/blogs/1659426054_post-6-img.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\blogs\1659426054_post-6-img.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/brand/1187_Pulmonary-care.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1187_Pulmonary-care.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1249_Cost-Effective (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1249_Cost-Effective (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1577_15-Mins (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1577_15-Mins (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1645528743_ambulance.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1645528743_ambulance.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650614244_Critical-Care-Clinic.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650614244_Critical-Care-Clinic.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650614288_Diagnostics.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650614288_Diagnostics.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650614339_E-smart-Icu.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650614339_E-smart-Icu.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650620911_Untitled-6.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650620911_Untitled-6.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650621460_Untitled-8.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650621460_Untitled-8.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650691817_icu-care-at-home (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650691817_icu-care-at-home (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650692245_Untitled-3.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650692245_Untitled-3.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650692283_Untitled-4.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650692283_Untitled-4.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650692728_Untitled-2.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650692728_Untitled-2.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650715688_icon.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650715688_icon.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650715714_image3.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650715714_image3.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650955410_dgd-ambulance.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650955410_dgd-ambulance.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650955444_dgd-e-smart-icu.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650955444_dgd-e-smart-icu.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650955458_dgd-dignostics.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650955458_dgd-dignostics.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650955484_dgd-icu-care-at-home.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650955484_dgd-icu-care-at-home.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650955509_Critical-Care-Academy.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650955509_Critical-Care-Academy.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1650955540_Critical-Care-Clinic.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1650955540_Critical-Care-Clinic.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1803_Chemotherpay-White-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1803_Chemotherpay-White-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1889_advance-ICU-Care-(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1889_advance-ICU-Care-(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1949_Care--prioritization (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1949_Care--prioritization (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/1994_Post-Covid-care.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\1994_Post-Covid-care.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/2045_Post-operative-care.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\2045_Post-operative-care.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/2143_Helpline (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\2143_Helpline (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/2324_Online-matrial.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\2324_Online-matrial.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/2332_Health-care-attendent--(-white.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\2332_Health-care-attendent--(-white.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/2419_affordable (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\2419_affordable (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/2484_Neuro-care.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\2484_Neuro-care.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/2519_Diagnosis (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\2519_Diagnosis (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/2696_One-Call-Away.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\2696_One-Call-Away.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/2703_24x7-ambulance-(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\2703_24x7-ambulance-(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/2705_Supervision-By-critical-care-doctors.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\2705_Supervision-By-critical-care-doctors.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/2872_Trauma-care.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\2872_Trauma-care.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/2999_Earlier-interventions-for (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\2999_Earlier-interventions-for (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/3068_Health-care-attendent--(-white.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\3068_Health-care-attendent--(-white.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/3142_Helpline (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\3142_Helpline (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/3183_Covid-&-Post-Covid-Care-(-White-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\3183_Covid-&-Post-Covid-Care-(-White-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/3222_affordable (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\3222_affordable (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/3260_Health-care-attendent--(-white.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\3260_Health-care-attendent--(-white.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/3433_Helpline (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\3433_Helpline (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/3668_affordable (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\3668_affordable (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/4019_Broder-Range-of (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\4019_Broder-Range-of (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/4487_affordable (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\4487_affordable (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/4539_Palliative-care.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\4539_Palliative-care.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/4946_Critical-Care-Nurses-(-White--).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\4946_Critical-Care-Nurses-(-White--).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/4960_One-Call-Away.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\4960_One-Call-Away.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/5055_doctor-visit-(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\5055_doctor-visit-(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/5122_Asistance-by-experience-ciritcal (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\5122_Asistance-by-experience-ciritcal (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/5127_doctor-visit-(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\5127_doctor-visit-(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/5242_Equipments-on-sale--(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\5242_Equipments-on-sale--(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/5456_Covid-care.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\5456_Covid-care.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/6186_doctor-visit-(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\6186_doctor-visit-(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/6346_Automated (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\6346_Automated (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/6640_Ecg-(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\6640_Ecg-(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/6679_Virtual-&-physcial.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\6679_Virtual-&-physcial.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/6770_Medcial-Express.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\6770_Medcial-Express.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/6791_Comfort-&-Comenieme-for (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\6791_Comfort-&-Comenieme-for (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/6838_1645082702_nurses.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\6838_1645082702_nurses.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/6920_One-Call-Away.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\6920_One-Call-Away.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/7321_ABG-(-White-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\7321_ABG-(-White-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/7356_Helpline (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\7356_Helpline (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/7382_Asistance-by-experience-ciritcal (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\7382_Asistance-by-experience-ciritcal (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/7761_Critical-care.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\7761_Critical-care.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/7880_Cancer-care.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\7880_Cancer-care.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/8056_Care--prioritization (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\8056_Care--prioritization (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/8070_Pulmonary-care (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\8070_Pulmonary-care (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/8083_Course-Designed-by-expert (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\8083_Course-Designed-by-expert (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/8164_Health-care-attendent--(-white.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\8164_Health-care-attendent--(-white.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/8364_Hemodialyisis-(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\8364_Hemodialyisis-(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/8438_Protocol-&-Quality-Care.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\8438_Protocol-&-Quality-Care.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/8469_Course-Designed-by-expert (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\8469_Course-Designed-by-expert (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/8669_Diagnostics (2).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\8669_Diagnostics (2).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/8807_Improve-patient-outcomes (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\8807_Improve-patient-outcomes (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/9230_Cost-Effective (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\9230_Cost-Effective (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/9525_Health-care-attendent--(-white.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\9525_Health-care-attendent--(-white.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/9533_certified-iso (1).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\9533_certified-iso (1).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/brand/9909_Unique-Courses.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\brand\9909_Unique-Courses.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/client/1645859114_Untitled-10.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\client\1645859114_Untitled-10.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/client/1645859145_Untitled-7.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\client\1645859145_Untitled-7.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/client/1648295421_Png-new-logo-1.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\client\1648295421_Png-new-logo-1.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/client/1648295503_Ideal-Surgicals.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\client\1648295503_Ideal-Surgicals.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/client/1648295552_Untitled-3.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\client\1648295552_Untitled-3.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/client/1650629528_Untitled-5.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\client\1650629528_Untitled-5.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/dpsmall.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\dpsmall.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/fevicon.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\fevicon.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/home/1649937929_patient.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\home\1649937929_patient.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/home/1649938056_doctor.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\home\1649938056_doctor.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/home/1649938108_nurse.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\home\1649938108_nurse.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/home/1649938226_cities.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\home\1649938226_cities.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/home/1650628852_Untitled-1.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\home\1650628852_Untitled-1.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/home/1651141954_Untitled-4.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\home\1651141954_Untitled-4.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/home/1651295343_patient.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\home\1651295343_patient.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/home/1651295493_nurse.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\home\1651295493_nurse.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/home/1652180569_front-image.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\home\1652180569_front-image.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/home/1675243736_1.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\home\1675243736_1.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/home/1675243751_2.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\home\1675243751_2.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/home/1675243784_3.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\home\1675243784_3.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/home/1675243798_4.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\home\1675243798_4.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/home/1675243819_5.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\home\1675243819_5.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/home/1675244099_Untitled design (11).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\home\1675244099_Untitled design (11).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/icons/1673617430_1645167749_info-6.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\icons\1673617430_1645167749_info-6.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/logo.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\logo.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650609538_Chemotherpay-(-Blue-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650609538_Chemotherpay-(-Blue-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650609538_Chemotherpay-White-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650609538_Chemotherpay-White-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650610294_Untitled-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650610294_Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/services/1650610531_Untitled-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650610531_Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/services/1650610816_Critical-Care-Physiotherapy-(-Blue-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650610816_Critical-Care-Physiotherapy-(-Blue-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650610816_Untitled-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650610816_Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611199_Health-care-attendent--(-white.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611199_Health-care-attendent--(-white.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611199_HEALTHCARE-ATTENDENT-(-BLUE-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611199_HEALTHCARE-ATTENDENT-(-BLUE-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611199_Untitled-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611199_Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611298_doctor-Visit-(-blue.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611298_doctor-Visit-(-blue.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611298_doctor-visit-(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611298_doctor-visit-(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611298_Untitled-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611298_Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611490_Advance-Icu-care-(-blue-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611490_Advance-Icu-care-(-blue-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611490_advance-ICU-Care-(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611490_advance-ICU-Care-(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611490_Untitled-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611490_Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611572_24x7-ambulance-(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611572_24x7-ambulance-(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611572_ambulance-care-(-Blue-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611572_ambulance-care-(-Blue-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611572_Untitled-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611572_Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611802_Ecg-(-Blue-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611802_Ecg-(-Blue-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611802_Ecg-(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611802_Ecg-(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611802_Untitled-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611802_Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611840_Critical-Care-Nurses-(-Blue-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611840_Critical-Care-Nurses-(-Blue-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611840_Critical-Care-Nurses-(-White--).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611840_Critical-Care-Nurses-(-White--).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611938_Critical-Care-Physiotherapy-(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611938_Critical-Care-Physiotherapy-(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650611992_Untitled-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650611992_Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/services/1650612107_Hemodialyisis-(-blue-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650612107_Hemodialyisis-(-blue-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650612107_Hemodialyisis-(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650612107_Hemodialyisis-(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650612107_Untitled-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650612107_Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/services/1650612131_Equipments-For-Sale-(-Blue-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650612131_Equipments-For-Sale-(-Blue-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650612131_Equipments-on-sale--(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650612131_Equipments-on-sale--(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650612177_Untitled-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650612177_Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/services/1650612177_Virtual-&-Physical-(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650612177_Virtual-&-Physical-(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650612177_Virtual-&-Physicle-Care.png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650612177_Virtual-&-Physicle-Care.png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650612207_Health-Mointer-(-Blue-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650612207_Health-Mointer-(-Blue-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650612207_Health-Mointor-(-white-).png
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650612207_Health-Mointor-(-white-).png
+Content Type: image/png
+
+Uri: https://saimanhealthcare.com/uploads/services/1650612207_Untitled-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\services\1650612207_Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/team/1645014255_doctor-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\team\1645014255_doctor-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/team/1645014825_doctor-3.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\team\1645014825_doctor-3.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/team/1645860044_12344.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\team\1645860044_12344.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/team/1645860455_bitt0.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\team\1645860455_bitt0.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/team/1645860547_bharat-jj.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\team\1645860547_bharat-jj.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/team/1646032648_nutrition.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\team\1646032648_nutrition.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/team/1646033174_bdsfsrhthy.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\team\1646033174_bdsfsrhthy.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/team/1646504145_Dr Gunjan Chanchalani.jpeg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\team\1646504145_Dr Gunjan Chanchalani.jpeg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/team/1650955842_Biospectrum.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\team\1650955842_Biospectrum.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/team/1660038574_Untitled-11111.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\team\1660038574_Untitled-11111.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/testimonial/1646027584_Untitled-1.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\testimonial\1646027584_Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/testimonial/1646028064_Untitled-3.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\testimonial\1646028064_Untitled-3.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/testimonial/1646031372_aditi.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\testimonial\1646031372_aditi.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/testimonial/1646031406_shubham-jain.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\testimonial\1646031406_shubham-jain.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/testimonial/1646031428_ruchi-tandob.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\testimonial\1646031428_ruchi-tandob.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/testimonial/1646031622_sandeep-agarwal.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\testimonial\1646031622_sandeep-agarwal.jpg
+Content Type: image/jpeg
+
+Uri: https://saimanhealthcare.com/uploads/testimonial/1646031841_bharat.jpg
+File Name: G:\HTML CCSS\saimanhealthcare.com\uploads\testimonial\1646031841_bharat.jpg
+Content Type: image/jpeg
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: G:\HTML CCSS\saimanhealthcare.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: G:\HTML CCSS\saimanhealthcare.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: G:\HTML CCSS\saimanhealthcare.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: G:\HTML CCSS\saimanhealthcare.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: G:\HTML CCSS\saimanhealthcare.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: G:\HTML CCSS\saimanhealthcare.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: G:\HTML CCSS\saimanhealthcare.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: G:\HTML CCSS\saimanhealthcare.com\recaptcha\api.js
+Content Type: text/javascript
+
